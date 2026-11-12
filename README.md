@@ -1,3 +1,71 @@
+# PayPilot-AI
+
+## About the Project
+
+PayPilot-AI is an AI-powered financial companion designed to help users manage their money and make smarter financial decisions.
+
+The project combines digital payment functionality with AI-powered financial assistance.
+
+## Features
+
+- Digital payment functionality
+- Transaction management
+- Financial dashboard
+- AI-powered financial insights
+- Spending analysis
+- Personalised financial recommendations
+- User-friendly interface
+
+## Technology Stack
+
+- React
+- TypeScript
+- HTML
+- CSS
+- AI
+- PayPal Developer Platform
+- PayPal Sandbox
+- Vercel
+- GitHub
+
+## PayPal Integration
+
+PayPilot-AI integrates the PayPal Developer Platform using the PayPal Sandbox environment for testing payment functionality without using real money.
+
+## AI Integration
+
+AI is used to analyse financial information and provide intelligent insights and recommendations to help users understand their spending and make better financial decisions.
+
+## How to Run
+
+Clone the repository:
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open the local URL shown by Vite in your browser.
+
+## Live Demo
+
+https://pay-pilot-ai-nine.vercel.app
+
+## Team
+
+PayPilot-AI was developed as a hackathon project to explore the combination of digital payments and artificial intelligence.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
